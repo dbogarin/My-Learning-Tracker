@@ -12,36 +12,42 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**React**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Redux**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Backbone**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Git**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Git bash**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bitbucket**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Gulp/Webpack**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Agile**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Stylus**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     |               |               |                  |                |          .      |
+|**FRONT END**                         |   |  |  |    |   |                 |
+|  Html5                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  CSS3                            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Javascript                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Jquery                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  React                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Sass                            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Css Grid & Flex-box             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Responsive                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Bootstrap                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Css Grid & Flex-box             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Node js                         | ![done][done]     |               |               |                  |                |                 |
+|**BACK END**                      |   |  |  |    |   |                 |
+|  PHP                             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |               |                 |
+|  Wordpress(plugins, themes development) | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|  Drupal                          | ![done][done]     | ![done][done] |               |                  |                |                 |
+|  Laravel                         | ![done][done]     | ![done][done] |               |                  |                |                 |
+|  ASP(havent used for a while)    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  .NET C#(havent used for a while)| ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Working with APIs               | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Working with APIs               | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Tools**                         |   |  |  |    |   |                 |
+|  Linux servers                   | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Doker                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Git hub                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Svn                             | ![done][done]     | ![done][done] |               |                  |                |                 |
+|  Hosting maintenance(blue host, good)| ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Publishing website              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Command Line                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Agile                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Desing**                         |   |  |  |    |   |                 |
+|  Photoshop                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Gimp                            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Ilustrator                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|  Photography                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+
 
 ----
 
@@ -118,7 +124,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Kent C Dodds]: https://egghead.io/instructors/kentcdodds
 [egghead.io]: https://egghead.io/
 
-### Paths
+### Articles that I would recomend
 
 | Paths with multiple resources                             |            Author            |
 |:----------------------------------------------------------|:----------------------------:|
@@ -145,68 +151,49 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ----
 
-## Highlights
+## Social
 
-The most interesting of what I'm watching, reading, and doing:
+When I have free time I like to writte articules that would help someone an also as a selfnote.
 
-[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/)
-
-And here is a chronological log of the highlights of my learning:
-
-[**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)
+[**Click here to see some of my articles(some of them no related to tech**](https://medium.com/@22acacia_cr)
 
 ----
 
 ## Interests
 
-I'm currently interested in/excited about:
+I'm currently interested in about:
 
 + React
-+ JavaScript best practice
-+ Object Oriented Programming
++ JavaScript best practices
+
+Non-related to Tech:
++ Photography
 
 ----
 
 ## Web Development Checklist
 
-This is a list of basic objectives to meet on the road to mastering web development.
+Things that I have done and continue doing on my road as developer.
 
-It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
-
-
-* [x] Open the computer’s terminal
-* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [x] Use some keyboard shortcuts
-* [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
-* [x] Attend an event about web development
-* [x] Follow developers you admire on social media
-* [ ] Read a book about coding
-* [x] Open your browser console
-* [x] Get data from an API
-* [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
-* [x] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
-* [ ] Participate in a hackathon
-* [x] Deploy a project
-* [ ] Ship your project to a store
-* [ ] Contribute to open source
-* [x] Get paid to code
-* [x] When people ask what you do, respond saying you’re a developer :)
-
+* Use the terminal for editing files or make operations quicker.
+* Exploring new Plugins for vscode almost everyday
+* Use some keyboard shortcuts for Vscode
+* Write tests for your code
+* Help another web developer with something they’re having trouble with
+* Attend an event about web development
+* Read a book about coding
+* Open your browser console and test my javascript for e.g.
+* Get data from an API
+* Post a question on Stack Overflow
+* Push code to GitHub
+* Speak about something tech-related to peers.
+* Complete a technical interview
+* Deploy a project on production
+* Contribute to a tech event(wordcamp)
+* Get paid to code
+* Deal with old technologies. 
 ----
 
-If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
-
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
-
-----
-
-### Acknowledgments
-
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
 
 ### License
 
