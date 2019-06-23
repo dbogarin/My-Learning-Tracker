@@ -192,6 +192,7 @@ Things that I have done and continue doing on my road as developer.
 * Contribute to a tech event(wordcamp)
 * Get paid to code
 * Deal with old technologies. 
+* Create user guides. 
 ----
 
 
