@@ -124,15 +124,23 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Kent C Dodds]: https://egghead.io/instructors/kentcdodds
 [egghead.io]: https://egghead.io/
 
-### Articles that I would recomend
+### My sheet Articles that I use once in a while
 
-| Paths with multiple resources                             |            Author            |
-|:----------------------------------------------------------|:----------------------------:|
-| [33 concepts every JavaScript developer should know]      | [Leonardo Maldonado]         |
-| [Best JavaScript books, tutorials, courses & videos]      | [ReactDOM]                   |
-| [Learn to code in 2018]                                   | [Andrei Neagoie]             |
-| [Get Job ready - JavaScript Edition]                      | [P1xt]                       |
-| [Full Stack Web Developer Path]                           | [Shovan Chatterjee]          |
+I use below to refresh my mind.
+
+[You might not need jquery]: http://youmightnotneedjquery.com/
+[5 habits that have improved my javascript]: https://medium.com/@EnriqueCastl/5-habits-that-have-improved-my-javascript-fde90c3c29e4
+[git - the simple guide]: http://rogerdudler.github.io/git-guide/
+[CSS Dropdown Menu in WordPress]: https://perishablepress.com/css-dropdown-menu-wordpress/
+[Making Better WordPress Plugins with ACF]: https://www.yaconiello.com/blog/making-better-wordpress-plugins
+[All About Floats]:  https://css-tricks.com/all-about-floats/
+[30 HTML Best Practices for Beginners]: https://code.tutsplus.com/tutorials/30-html-best-practices-for-beginners--net-4957
+[30 HTML Best Practices for Beginners]: https://code.tutsplus.com/tutorials/30-html-best-practices-for-beginners--net-4957
+[Css Guides lines]: https://cssguidelin.es/
+[A Simple Cheatsheet for Flexbox]: https://codeburst.io/a-simple-cheatsheet-for-flexbox-f5d3e1658447
+
+
+
 
 [//]: # (Reference links to paths)
 
@@ -153,7 +161,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ## Social
 
-When I have free time I like to writte articules that would help someone an also as a selfnote.
+When I have free time I like to writte articles that would help someone an also as a selfnote.
 
 [**Click here to see some of my articles(some of them no related to tech**](https://medium.com/@22acacia_cr)
 
